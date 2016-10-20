@@ -1,6 +1,7 @@
-## Exercise 1
+Write a Go program to print the following lines:
 
-* Author: Casper LI
-* Date: 20-10-2016
-
-## Question
+Example Output:
+```
+I am so happy to play with Go Language.
+It is interesting!
+```
