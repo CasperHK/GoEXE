@@ -13,4 +13,4 @@ Let's learn Go language with GoEXE!
 
 As a Contributor
 ----------------------
-You can read the [How to Contribute?](https://github.com/CasperHK/GoEXE/blob/master/doc/HowToContribute.md) document to know everything to make this project better. Let's start contribute GoEXE!
+You can read the "[How to Contribute?](/doc/HowToContribute.md)" document to know everything to make this project better. Let's start contribute GoEXE!
