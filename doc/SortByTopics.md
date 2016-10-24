@@ -13,7 +13,7 @@ Variables
 Control Structures
 ------------------
 ### Level 1
- * [Exercise 1](https://github.com/CasperHK/GoEXE/tree/master/exe/Exercise_1)
+ * [Exercise 1](../exe/Exercise_1)
  * [Exercise 2](https://github.com/CasperHK/GoEXE/tree/master/exe/Exercise_2)
 ### Level 2
 
